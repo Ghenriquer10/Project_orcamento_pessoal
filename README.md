@@ -3,4 +3,4 @@
 - Usei o LocalStorage do próprio navegador para persistir os dados gerados na criação dos orçamentos.
 - Orçamentos criados através de classes, convertidos em JSON e persistidos no localStorage através de ID's chamados por funções no Javascript.
 
-<img src="https://im2.ezgif.com/tmp/ezgif-2-7e53fc47c3df.gif" width="1000" height="500"/> 
+<img src="https://im2.ezgif.com/tmp/ezgif-2-7e53fc47c3df.gif" width="1000" height="400"/> 
